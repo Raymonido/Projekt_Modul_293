@@ -1,0 +1,13 @@
+body {
+  font-family: "Arial Black", serif;
+  background: linear-gradient(to right, #ebe8e8, #f2f2f2, #FFFFFF);
+}
+
+.title {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  font-size: x-large;
+  justify-content: center;
+
+}

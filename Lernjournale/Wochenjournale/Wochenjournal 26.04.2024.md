@@ -16,3 +16,10 @@ Vor dem Start meiner Lehre als Informatiker hatte ich keine Ahnung von HTML, CSS
 ## Eigenes Glossar:
 
 ### HTML Befehle:
+
+Der header Tag enthält alle meta Tags. Er kann nicht gesehen werden, er ist jedoch erforderlich. Meta Tags werden verwendet, um z.B 
+```
+<head>'Hier kommen Meta tags hinein, den Header sieht man auf der Seite nicht.'</head>
+```
+
+

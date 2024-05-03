@@ -7,11 +7,12 @@ Vor dem Start meiner Lehre als Informatiker hatte ich keine Ahnung von HTML, CSS
 
 ## Tätigkeiten:
 
- -  Als erstes haben wir uns in einer Kennenlernrunde kennengelernt. Danach haben wir die Kompetenzen des Moduls angeschaut und uns 
+ -  Als erstes haben wir uns in einer Kennenlernrunde kennengelernt. Danach haben wir die Kompetenzen des Moduls angeschaut und uns Gedanken gemacht, wie wir in diesem Modul arbeiten werden.
 
 
 
 ## Das habe ich gelernt:
+Ich habe das Modul und wie es aufgebaut ist kennengelernt und mir ein paar Gedanken gemacht, wie ich an das Modul herangehen werde. Ich werde wahrscheinlich eine eigene Webseite Bauen mit dem Framework Angular.
 
 ## Eigenes Glossar:
 

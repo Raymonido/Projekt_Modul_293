@@ -22,10 +22,33 @@ body {
   background-color: aqua;
   width: 20%;
   margin-left: 0;
-  box-shadow: black 10px;
-}
-
-.navigation{
   
 }
 
+.navbuttons{
+  font-family: futura;
+  display: flex;
+  flex-direction: row;
+  background-color: white;
+  border: none;
+  border-radius: 10px;
+  padding: 30px;
+  box-shadow: 10px 5px 5px rgba(0, 0, 0, 0.2);
+  min-width: 80%;
+  min-height: 50px;
+  justify-content: center;
+  transition: ease-in 0.3s;
+}
+
+.navbuttons:hover {
+  background-color: beige;
+  font-size: large;
+  padding: 35px;
+}
+
+a {
+  text-decoration: none;
+  font-style: normal;
+  color: black;
+  font-weight: bold;
+}

@@ -18,6 +18,10 @@ In dieser Kompetenz zeige ich, wie ich meine Entwicklungsumgebung (VS Code) an m
 
 - Ausserdem habe ich den Live-Server so konfiguriert, dass immer Chrome geöffnet wird. Ich hätte ausserdem den Port ändern können, auf welchem der Live-Server geöffnet wird.
 
+- Ich kann auch meine Entwicklungsumgebung farblich an meine Bedürfnisse anpassen, dies mache ich über "File -> Preferences -> Theme -> Color Theme" in Visual Studio Code.
+
+- Für meine Angular Projekte habe ich ausserdem den "Angular Language Service" heruntergeladen, um mir die Arbeit mit Angular etwas zu vereinfachen.
+
 ![Einstellungen des Live Servers](image.png)
 
 
@@ -71,6 +75,8 @@ Es gibt verschiedene Arten von Cookies, welche alle zu unterschiedlichen Zwecken
 4. Drittanbieter-Cookies: Diese Cookies werden von Drittanbietern verwendet, welche auf der Webseite vertreten sind. Diese Cookies werden vor allem für Werbezwecke odedr Verhaltenszwecke verwendet.
 <br><br>
 
+
+
 # Selbsteinschätzung
 
-Ich finde ich kann sicher die F Kompetenzen dieses Kompetenzbereiches erfüllen, da ich das Prinzip vertanden habe, wie Webseiten aufgebaut sind und wie Sie sich verhalten im Internet. Auch die wichtigsten HTML-Tags sind mir schon bekannt und der Prozess zur Abfrage einer Webseite ist mir bekannt. 
+Ich finde ich kann sicher die F Kompetenzen dieses Kompetenzbereiches erfüllen, da ich das Prinzip vertanden habe, wie Webseiten aufgebaut sind und wie Sie sich verhalten im Internet. Auch die wichtigsten HTML-Tags sind mir schon bekannt und der Prozess zur Abfrage einer Webseite ist mir bekannt. Auch meine Entwicklungsumgebung kann ich an meine eigenen Bedürfnisse anpassen, dabei kann ich verschiedenste Plugins installieren um z.B. mein Projekt auf GitHub hochzuladen. 

@@ -80,3 +80,8 @@ Es gibt verschiedene Arten von Cookies, welche alle zu unterschiedlichen Zwecken
 # Selbsteinschätzung
 
 Ich finde ich kann sicher die F Kompetenzen dieses Kompetenzbereiches erfüllen, da ich das Prinzip vertanden habe, wie Webseiten aufgebaut sind und wie Sie sich verhalten im Internet. Auch die wichtigsten HTML-Tags sind mir schon bekannt und der Prozess zur Abfrage einer Webseite ist mir bekannt. Auch meine Entwicklungsumgebung kann ich an meine eigenen Bedürfnisse anpassen, dabei kann ich verschiedenste Plugins installieren um z.B. mein Projekt auf GitHub hochzuladen. 
+Ich finde ich kann sicher die F Kompetenzen dieses Kompetenzbereiches erfüllen, da ich das Prinzip vertanden habe, wie Webseiten aufgebaut sind und wie Sie sich verhalten im Internet. Auch die wichtigsten HTML-Tags sind mir schon bekannt und der Prozess zur Abfrage einer Webseite ist mir bekannt. 
+
+## Feedback
+Ich kann Ihre Kompetenzentwicklung anhand der Ressourcen gut nachvollziehen.
+Achten Sie darauf, dass Sie die Ausgangslage nur für den jeweiligen Kompetenzbereich  schreiben.

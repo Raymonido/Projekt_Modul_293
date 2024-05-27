@@ -5,38 +5,104 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Forms</title>
     <link rel="stylesheet" href="style.css">
+    <link rel="icon" href="assets/icons8-projekt-64.png">
 </head>
 <body>
-    <header class="header" id="header">Forms</header>
-    <div class="form">
-        <form  
-        action="https://formspree.io/f/myyrvvae"
-        method="POST">
-    
-            <fieldset>
-                <legend>Personalien</legend>
-                <div class="nachname">
-                    <label for="name">Name *:</label>
-                    <input type="text" name="name" id="name" required>
-                </div>
-                <div class="vorname">
-                    <label for="vorname">Vorname *:</label>
-                    <input type="text" name="vorname" id="vorname" required>
-                </div>
-    
-                <div class="Möchten Sie etwas bestellen?">
-                    
-                </div>
-            </fieldset>
-    
-            <div class="submit">
-                <input type="reset" value="Löschen">
-            <input type="submit" value="Übermitteln">
-            </div>
-    
-        </form>
+  <header class="header" id="header">
+    <a href="/index.html">Formular (Kontakt)</a>
+    <div class="menubutton" id="menubutton" onclick="triggeranim()">
+      <img src="assets/menu-icon.png" alt="menu-icon" onclick="openmenu()">
     </div>
-   
+    <div class="menubutton2" id="menubutton2">
+     <button id="togglebutton" onclick="toggleheader()" class="togglebutton">✔️</button>
+    </div>
+  </header>
 
+  
+    <div class="content">
+        <h1 class="title">Formular</h1>
+        <div class="navbar" id="navbar-hidden">
+            <nav class="navigation">
+              <ul>
+                <button class="navbuttons"><a href="/about.html">About us</a></button>
+              </ul>
+              <ul>
+                <button class="navbuttons"><a href="/Lernjournale.html">Lernjournale</a></button>
+              </ul>
+              <ul>
+                <button class="navbuttons"><a href="/map.html">Karte</a></button>
+              </ul>
+              <ul>
+                <button class="navbuttons"><a href="/index.html">Home</a></button>
+              </ul>
+              <ul>
+                <button class="navbuttons"><a href="/attributions.html">Attributions</a></button>
+              </ul>
+            </nav>
+          </div>
+        <div class="form">
+            <form  
+            action="https://formspree.io/f/myyrvvae"
+            method="POST">
+        
+                <fieldset>
+                    <legend>Personalien</legend>
+                    <div class="input-field">
+                        <label for="name">Name *:</label>
+                        <input type="text" name="name" id="name" required placeholder="Mustermann">
+                    </div>
+                    <div class="input-field">
+                        <label for="vorname">Vorname *:</label>
+                        <input type="text" name="vorname" id="vorname" required placeholder="Max">
+                    </div>
+                    <div class="input-field">
+                      <label for="email">E-Mail *:</label>
+                      <input type="email" name="email" id="email" required placeholder="maxmustermann@example.com">
+                  </div>
+                  <div class="input-field">
+                    <label for="tel">Telefonnummer *:</label>
+                    <input type="tel" name="tel" id="tel" required placeholder="079 444 44 44">
+                </div>
+        
+                    <div class="input-field">    
+                        <label for="gender">Geschlecht *:</label>
+                        <label for="gender">Mann:</label>
+                        <input type="radio" name="gender" value="Mann" id="man">
+                        <label for="woman">Frau:</label>
+                        <input type="radio" name="gender" value="Woman" id="woman">
+                    </div>
+                    
+                </fieldset>
+                <fieldset>
+                    <legend>Probleme</legend>
+                    <div class="input-field">
+                      <label for="problem">Wählen Sie ihr Anliegen aus *:</label>
+                      <select id="problem" name="problem" required>
+                      <option value="Problems with webpage">Probleme mit der Webseite</option>
+                      <option value="Problem with service">Probleme mit dem Service</option>
+                      <option value="Header blocks screen">Header blockiert den Screen</option>
+                      <option value="Other">Sonstiges...</option>
+                      </select>
+                    </div>
+                    <div class="input-field">
+                      <label for="problem-other">Falls Sie Sonstiges Ausgewählt haben, was ist das Problem?</label>
+                      <textarea name="problem-other" placeholder="z.B. Webseite lädt nicht"></textarea>
+                    </div>
+                    <div class="input-field">
+                      <label for="Newsletter on">Wollen Sie den Newsletter Abonnieren?</label>
+                        <input type="checkbox" name="Newsletter on">
+                    </div>
+                </fieldset>
+                <div class="submit">
+                    <input type="reset" value="Löschen" class="submit-button">
+                    <input type="submit" value="Übermitteln" class="submit-button">
+                </div>
+        
+            </form>
+          </div>
+          <footer>© Ramon Hufschmid</footer>
+    </div>
+    
 </body>
+<script src="script.js"></script>
 </html>

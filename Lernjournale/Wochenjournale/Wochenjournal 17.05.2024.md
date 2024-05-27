@@ -2,7 +2,7 @@
 
 ## Was haben wir heute gemacht?
 
-Heute Morgen hat uns Herrn bordbeck ein Live Coding vorgezeigt, wie man Formulare erstellt. Danach konnten wir selbstständig weiterarbeiten. Danach haben wir einen Auftrag 
+Heute Morgen hat uns Herrn bordbeck ein Live Coding vorgezeigt, wie man Formulare erstellt. Danach konnten wir selbstständig weiterarbeiten. Danach haben wir einen Auftrag erhalten, diese Formulare zu erstellen. Ich habe diese gerade in meine Webseite eingebaut.
 
 ## Was habe ich heute gelernt?
 

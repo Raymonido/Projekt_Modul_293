@@ -6,6 +6,7 @@
     <title>About</title>
     <link rel="stylesheet" href="style.css">
     <link rel="icon" href="assets/icons8-projekt-64.png">
+    <script type="module" src="https://unpkg.com/@google/model-viewer/dist/model-viewer.min.js"></script>
 </head>
 <body>
     <header class="header" id="header">
@@ -18,41 +19,85 @@
         </div>
       </header>
     <div class="content">
-        <div class="navbar" id="navbar-hidden">
-            <nav class="navigation">
-              <ul>
-                <button class="navbuttons"><a href="/index.html">Home</a></button>
-              </ul>
-              <ul>
-                <button class="navbuttons"><a href="/Lernjournale.html">Lernjournale</a></button>
-              </ul>
-              <ul>
-                <button class="navbuttons"><a href="/map.html">Karte</a></button>
-              </ul>
-              <ul>
-                <button class="navbuttons"><a href="/form.html">Formular (Kontakt)</a></button>
-              </ul>
-              <ul>
-                <button class="navbuttons"><a href="/attributions.html">Attributions</a></button>
-              </ul>
-            </nav>
-          </div>
+      <div class="navbar" id="navbar-hidden">
+        <nav class="navigation">
+          <ul>
+            <button class="navbuttons"><a href="/about.html">About us</a></button>
+            <button class="navbuttons"><a href="/Lernjournale.html">Journale</a></button>
+            <button class="navbuttons"><a href="/index.html">Home</a></button>
+            <button class="navbuttons"><a href="/attributions.html">Credits</a></button>
+          </ul>
+        </nav>
+      </div>
           <div class="title">
             <h1>Meine Freizeit:</h1>
           </div>
 
           <div class="description">
             <p>In meiner Freizeit verbringe ich auch sehr viel Zeit am Computer. Am liebsten aber spiele ich draussen mit meinen Kollegen Tennis. Was mache ich sonst noch so in meiner Freizeit?</p>
-
-            <div class="freizeit-activity">
-                
-            </div>
             
-        
-          
-    </div>
-          <footer>© Ramon Hufschmid</footer>
-    </div>
+            <div class="freizeit-container">
+              <div class="freizeit-activity" id="tennis">
+                <button onclick="togglecover(1)" class="hidebutton">Verdecken</button>
+                <h1>Wo?</h1>
+                <p>Ich spiele aktuell beim TC Gelterkinden. Ich spiele sehr oft mit meinen Freunden in der Halle oder auf dem Aussenplatz.</p>
+                <div class="media">
+                  <iframe class="map" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2697.6426342505783!2d7.865644676693206!3d47.45790519823338!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x479035b6835502ed%3A0x38275d4d7f801beb!2sTennisclub%20Gelterkinden!5e0!3m2!1sde!2sch!4v1717139853123!5m2!1sde!2sch" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                <iframe class="video" src="https://www.youtube.com/embed/1BKicTE-gvQ?si=5sfK26nKF17VQ-Q4&amp;controls=0&amp;start=116" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                </div>
+              </div>
+              <div class="freizeit-cover" id="1">
+                <img src="assets/Tennis.jpg" alt="Tennis" class="cover-img" onclick="togglecover(1)">
+                <h1 class="cover-header"><span class="yellow">TEN</span>NIS</h1>
+              </div>
+            </div>
+
+            <div class="freizeit-container">
+              <div class="freizeit-activity" id="iracing">
+                <button onclick="togglecover(2)" class="hidebutton">Verdecken</button>
+                <h1>Was?</h1>
+                <p>iRacing ist eine hochrealistische Online-Rennsimulation, die Spielern ermöglicht, mit detaillierten Fahrzeugen und Strecken gegen Fahrer weltweit anzutreten. Die Plattform legt besonderen Wert auf präzise Fahrphysik und fairen Wettbewerb durch ein umfassendes Bewertungssystem.</p>
+                <div class="media">
+                  <iframe class="video" src="https://www.youtube.com/embed/NMnE-igE1DI?si=BvMBcypwpinRLekq&amp;start=174" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+                </div>
+              </div>
+              <div class="freizeit-cover" id="2">
+                <img src="assets/iracing.jpg" alt="Iracing" class="cover-img" onclick="togglecover(2)">
+                <h1 class="cover-header"><span class="red">I</span>RAC<span class="blue">ING</span></h1>
+              </div>
+            </div>
+
+            <div class="freizeit-container">
+              <div class="freizeit-activity" id="assetto">
+                <button onclick="togglecover(3)" class="hidebutton">Verdecken</button>
+                <h1>Warum?</h1>
+                <p>Nun fragt man sich wahrscheinlich, warum ich noch ein Rennspiel als Hobby habe. Assetto Corsa ist im Vergleich zu Iracing fast Kostenlos und bietet eine tolle gelegenheit um mit Kollegen Online ein Rennen zu machen.</p>
+               
+                <div class="media">
+                  <model-viewer src="assets/alpine_a523_2023.glb" alt="A 3D model of a car" auto-rotate camera-controls scale="1.5 1.5 1.5" class="dmodel"></model-viewer>
+                </div>
+              </div>
+              <div class="freizeit-cover" id="3">
+                <img src="assets/assettocorsa.jpg" alt="Iracing" class="cover-img" onclick="togglecover(3)">
+                <h1 class="cover-header"><span class="red">ASSETTO </span>CORSA</h1>
+              </div>
+
+              <div class="freizeit-container">
+                <div class="freizeit-activity" id="assetto">
+                  <button onclick="togglecover(4)" class="hidebutton">Verdecken</button>
+                  <h1>Warum?</h1>
+                  
+                </div>
+                <div class="freizeit-cover" id="4">
+                  <img src="assets/videobearbeitung.jpeg" alt="editing" class="cover-img" onclick="togglecover(4)">
+                  <h1 class="cover-header">Videobearbeitung</h1>
+                </div>
+            </div>
+
+        </div>
+        <footer>© Ramon Hufschmid</footer>
+    </div>  
 
 <script src="script.js"></script>
 </body>

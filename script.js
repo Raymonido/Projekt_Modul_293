@@ -1,5 +1,5 @@
   /* Disclaimer: Der unten stehende Code wurde teilweise mit ChatGPT generiert. Die Logik, in welcher sich der Header beim Scrollen verändert, wurde selbst gemacht. 
-  Die Logik, dass sich diese Funktion aus und abschalten lässt, wurde von ChatGPT generiert. */ 
+  Die Logik, dass sich diese Funktion aus und abschalten lässt, wurde von ChatGPT generiert. Der Code wurde allerdings verstanden und analysiert.*/ 
   
   document.addEventListener('DOMContentLoaded', function () {
             const header = document.getElementById('header');
@@ -60,3 +60,9 @@ function toggleheader() {
 function triggeranim() {
     document.getElementById("menubutton").classList.toggle("menubutton-anim")
 }
+
+function togglecover(id) {
+    cover = document.getElementById(id);
+    cover.classList.toggle("freizeit-cover-hidden");
+
+} 

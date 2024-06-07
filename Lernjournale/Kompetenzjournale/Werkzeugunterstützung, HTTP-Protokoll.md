@@ -24,6 +24,7 @@ In dieser Kompetenz zeige ich, wie ich meine Entwicklungsumgebung (VS Code) an m
 
 ![Einstellungen des Live Servers](image.png)
 
+## Kompetenz E2
 
 ## Wie funktioniert eine Anfrage an eine Webseite?
 
@@ -79,7 +80,7 @@ Es gibt verschiedene Arten von Cookies, welche alle zu unterschiedlichen Zwecken
 
 # Selbsteinschätzung
 
-Ich finde ich kann sicher die F Kompetenzen dieses Kompetenzbereiches erfüllen, da ich das Prinzip vertanden habe, wie Webseiten aufgebaut sind und wie Sie sich verhalten im Internet. Auch die wichtigsten HTML-Tags sind mir schon bekannt und der Prozess zur Abfrage einer Webseite ist mir bekannt. Auch meine Entwicklungsumgebung kann ich an meine eigenen Bedürfnisse anpassen, dabei kann ich verschiedenste Plugins installieren um z.B. mein Projekt auf GitHub hochzuladen. 
+Ich finde ich kann sicher die E Kompetenzen dieses Kompetenzbereiches erfüllen, da ich das Prinzip vertanden habe, wie Webseiten aufgebaut sind und wie Sie sich verhalten im Internet. Auch die wichtigsten HTML-Tags sind mir schon bekannt und der Prozess zur Abfrage einer Webseite ist mir bekannt. Auch meine Entwicklungsumgebung kann ich an meine eigenen Bedürfnisse anpassen, dabei kann ich verschiedenste Plugins installieren um z.B. mein Projekt auf GitHub hochzuladen. 
 Ich finde ich kann sicher die F Kompetenzen dieses Kompetenzbereiches erfüllen, da ich das Prinzip vertanden habe, wie Webseiten aufgebaut sind und wie Sie sich verhalten im Internet. Auch die wichtigsten HTML-Tags sind mir schon bekannt und der Prozess zur Abfrage einer Webseite ist mir bekannt. 
 
 ## Feedback

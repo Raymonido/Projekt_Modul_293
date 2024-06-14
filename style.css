@@ -1,7 +1,7 @@
 /* Farbvariablen definieren */
 
 :root {
-  --primarycolor: linear-gradient(to right, #fcdd9f, #fad68e, #fcd586, #dbb567);
+  --primarycolor: linear-gradient(to right, #ff416c, #ff4b2b);;
   --backgroundcolor: linear-gradient(to right, #d4d4d4, #f2f2f2, #FFFFFF);
   --blue: blue;
   --yellow: yellow;
@@ -11,14 +11,14 @@
 
 
 @font-face {
-  font-family: futura;
-  src: url(assets/FuturaStdBold.woff);
+  font-family: Gravity;
+  src: url(assets/Gravity-Regular.otf);
 }
 
 
 body {
-  font-family: futura, serif;
-  background: --backgroundcolor;
+  font-family: Gravity, serif;
+  background: var(--backgroundcolor);
   margin: 0;
   height: 100%;
   user-zoom: none;
@@ -33,7 +33,7 @@ body {
   flex-wrap: nowrap;
   justify-content: center;
   margin-bottom: 20px;
-
+  font-size: 30px;
 }
 
 /* Cards */ 
@@ -58,6 +58,7 @@ body {
   height: 700px;
   margin: 40px;
   width: 300px;
+  border-radius: 20px;
 
   .card-btmtext {
     bottom: -16px;
@@ -65,23 +66,31 @@ body {
     width: 100%;
     border: solid black 1px;
     background: var(--primarycolor);
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
   }
 
 }
 
 .card-img-bbzbl {
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
   width: 100%;
   height: 50%;
   object-fit: cover;
   box-shadow: 0 0 10px red;
 }
 .card-img-devnotes {
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
   width: 100%;
   height: 50%;
   object-fit: cover;
   box-shadow: 0 0 10px aquamarine;
 }
 .card-img-braendi {
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
   width: 100%;
   height: 50%;
   object-fit: cover;
@@ -90,6 +99,8 @@ body {
 }
 
 .card-img-iracing {
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
   width: 100%;
   height: 50%;
   object-fit: cover;
@@ -126,7 +137,7 @@ ul {
 }
 
 .navbuttons{
-  font-family: futura;
+  font-family: Gravity;
   display: flex;
   flex-direction: row;
   background-color: white;
@@ -141,7 +152,7 @@ ul {
   padding: 10px;
   margin-bottom: 40px;
   &:hover {
-    background-color: bisque;
+    background-color: #ff445b;
     text-decoration: underline;
   }
 
@@ -238,7 +249,10 @@ main {
   left: 10px;
   padding: 8px;
   border-radius: 10px;
-  background-color: #fcdd9f;
+  background-color: rgba(0, 0, 0, 0);
+  &:hover {
+    padding: 30px;
+  }
 }
 
 .menubutton-anim {
@@ -295,7 +309,7 @@ legend {
 }
 
 input {
-  font-family: futura;
+  font-family: Gravity;
 }
 
 input[type=text] {
@@ -330,7 +344,7 @@ label {
   background-color: bisque;
   border-radius: 10%;
   border: none;
-  font-family: futura;
+  font-family: Gravity;
   transition: all ease 0.3s;
   padding: 20px;
 
@@ -369,6 +383,7 @@ label {
   box-shadow: 0 0 12px black;
   position: relative;
   top: 10px;
+  border-radius: 20px;
 }
 
 
@@ -382,6 +397,9 @@ label {
 
 #assetto {
   background-color: rgba(240, 70, 81, 0.5);
+}
+#editing {
+  background-color: rgba(255, 60, 130, 0.5);
 }
 
 .freizeit-cover-hidden {
@@ -399,6 +417,7 @@ label {
   height: 500px;
   position: absolute;
   top: 0;
+  border-radius: 20px;
   &:hover {
     box-shadow: 0 0 15px black;
     .cover-header{
@@ -414,6 +433,7 @@ label {
     position: relative;
     margin-top: 50px;
     margin-bottom: 50px;
+    border-radius: 20px;
 }
 
 
@@ -421,6 +441,7 @@ label {
   object-fit: cover;
   width: 100%;
   height: 100%;
+  border-radius: 20px;
 }
 .cover-header {
   transition: all ease 0.3s;
@@ -474,14 +495,15 @@ label {
 
 .hidebutton {
   background-color: var(--backgroundcolor);
-  font-family: futura;
+  font-family: Gravity;
   transition: background ease 0.3s;
   box-shadow: 0 2px 8px black;
   padding: 10px;
+  border-radius: 20px;
 }
 
 .hidebutton:hover {
-    background-color: bisque;
+    background-color: #ff445b;
 }
 
 .dmodel {
@@ -491,11 +513,14 @@ label {
 
 .skills-container {
   display: flex;
+  flex-direction: row;
   justify-content: space-evenly;
   align-items: center;
-  width: 90%;
+  width: 100%;
   height: 600px;
   box-shadow: 0 0 10px black;
+  border-radius: 10px;
+
 }
 
 .skill {
@@ -503,7 +528,83 @@ label {
   width: 30px;
   height: 90%;
   border: 1px solid black;
+  border-radius: 20px;
+  position: relative;
+  
 }
+#skill1 {
+  box-shadow: 0 0 10px #ef6a32;
+}
+#skill2 {
+  box-shadow: 0 0 10px #1ba7e2;
+}
+#skill3 {
+  box-shadow: 0 0 10px #c3012f;
+}
+#skill4 {
+  box-shadow: 0 0 10px #e22c54;
+}
+#skill5 {
+  box-shadow: 0 0 10px #f7e02a;
+}
+#skill6 {
+  box-shadow: 0 0 10px #fcfcab;
+}
+#skill7 {
+  box-shadow: 0 0 10px #b8b8ba;
+}
+#skill8 {
+  box-shadow: 0 0 10px #00005b;
+}
+.skill-meter {
+  position: absolute;
+  width: 100%;
+  bottom: 0;
+  border-radius: 20px;
+  p {
+    transform: rotate(90deg);
+  }
+}
+#skill1-meter {
+  height: 450px;
+  background-color: #ef6a32;
+}
+#skill2-meter {
+  height: 530px;
+  background-color: #1ba7e2;
+}
+#skill3-meter {
+  height: 300px;
+  background-color: #c3012f;
+  p {
+    color: white;
+  }
+}
+#skill4-meter {
+  height: 270px;
+  background-color: #e22c54;
+}
+#skill5-meter {
+  height: 360px;
+  background-color: #f7e02a;
+}
+#skill6-meter {
+  height: 420px;
+  background-color: #fcfcab;
+}
+#skill7-meter {
+  height: 420px;
+  background-color: #b8b8ba;
+}
+#skill8-meter {
+  height: 420px;
+  background-color: #00005b;
+  p {
+    color: white;
+  }
+}
+
+
 
 
 

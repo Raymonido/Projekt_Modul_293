@@ -251,6 +251,7 @@ main {
   border-radius: 10px;
   background-color: rgba(0, 0, 0, 0);
   &:hover {
+    cursor: pointer;
     padding: 30px;
   }
 }
@@ -341,7 +342,7 @@ label {
 }
 
 .submit-button {
-  background-color: bisque;
+  background-color: aquamarine;
   border-radius: 10%;
   border: none;
   font-family: Gravity;
@@ -499,7 +500,8 @@ label {
   transition: background ease 0.3s;
   box-shadow: 0 2px 8px black;
   padding: 10px;
-  border-radius: 20px;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
 }
 
 .hidebutton:hover {
@@ -603,11 +605,6 @@ label {
     color: white;
   }
 }
-
-
-
-
-
 /* Responsive */
 
 @media only screen and (max-width: 1312px) {
@@ -621,7 +618,6 @@ label {
     height: 150px;
   }
 }
-
 @media only screen and (max-width: 980px) {
   .navbar {
     width: 200px;
@@ -629,9 +625,7 @@ label {
   .navbuttons {
     font-size: small;
   }
-  
 }
-
 @media only screen and (max-width: 574px) {
   .map {
     width: 200px;
@@ -646,14 +640,12 @@ label {
     width: 90%;
     height: 70px;
   }
-
   ul {
     display: flex;
     flex-direction: row;
     gap: 5px;
     justify-content: space-around;
   }
-
   .navbuttons {
     padding: 0;
     margin: 0;
@@ -663,6 +655,4 @@ label {
       font-size: smaller;
     }
   }
-
-  
 }

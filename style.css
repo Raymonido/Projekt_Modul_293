@@ -137,7 +137,7 @@ ul {
 }
 
 .navbuttons{
-  font-family: Gravity;
+  font-family: Gravity, serif;
   display: flex;
   flex-direction: row;
   background-color: white;
@@ -147,7 +147,7 @@ ul {
   min-width: 90%;
   min-height: 60px;
   justify-content: center;
-  transition: all ease-in 0.3s;
+  transition: all ease 0.3s;
   align-items: center;
   padding: 10px;
   margin-bottom: 40px;
@@ -155,8 +155,11 @@ ul {
     background-color: #ff445b;
     text-decoration: underline;
   }
-
+  &:active {
+   transform: scale(1.1);
+  }
 }
+
 
 .navigationmenu {
   height: 50px;
@@ -172,6 +175,7 @@ a {
   font-style: normal;
   color: black;
   font-weight: bold;
+  font-family: Gravity, serif;
 }
 
 p {
@@ -310,7 +314,7 @@ legend {
 }
 
 input {
-  font-family: Gravity;
+  font-family: Gravity, serif;
 }
 
 input[type=text] {
@@ -345,7 +349,7 @@ label {
   background-color: aquamarine;
   border-radius: 10%;
   border: none;
-  font-family: Gravity;
+  font-family: Gravity, serif;
   transition: all ease 0.3s;
   padding: 20px;
 
@@ -368,6 +372,27 @@ label {
 .problem-other {
   width: 500px;
   height: 200px;
+}
+
+textarea {
+  font-family: Gravity, serif;
+  width: 100%;
+  max-width: 600px;
+  padding: 15px;
+  border: 2px solid #f2384a;
+  border-radius: 8px;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #333;
+  background-color: #f9f9f9;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  resize: vertical;
+  transition: border-color 0.3s, box-shadow 0.3s;
+  &:focus {
+    border-color: #f37e89;
+    box-shadow: 0 0 8px rgba(0, 123, 255, 0.5);
+    outline: none;
+  }
 }
 
 /* About */
@@ -496,7 +521,7 @@ label {
 
 .hidebutton {
   background-color: var(--backgroundcolor);
-  font-family: Gravity;
+  font-family: Gravity, serif;
   transition: background ease 0.3s;
   box-shadow: 0 2px 8px black;
   padding: 10px;
@@ -522,6 +547,7 @@ label {
   height: 600px;
   box-shadow: 0 0 10px black;
   border-radius: 10px;
+  transition: all ease 0.3s;
 
 }
 
@@ -532,7 +558,7 @@ label {
   border: 1px solid black;
   border-radius: 20px;
   position: relative;
-  
+  transition: all ease 0.3s;
 }
 #skill1 {
   box-shadow: 0 0 10px #ef6a32;
@@ -567,6 +593,17 @@ label {
     transform: rotate(90deg);
   }
 }
+.skill-meter-rotate {
+  transform: rotate(-90deg);
+  transition: all ease 0.3s;
+  justify-content: center;
+  width: 500px;
+  margin-left: 60px;
+  .skill-meter {
+    top: 0;
+  }
+}
+
 #skill1-meter {
   height: 450px;
   background-color: #ef6a32;

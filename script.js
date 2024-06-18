@@ -66,3 +66,7 @@ function togglecover(id) {
     cover.classList.toggle("freizeit-cover-hidden");
 
 } 
+
+function togglerotation(id) {
+    document.getElementById(id).classList.toggle("skill-meter-rotate");
+}

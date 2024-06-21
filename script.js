@@ -24,7 +24,7 @@
                 };
                 window.addEventListener('scroll', scrollListener);
                 scrollEventActive = true;
-                toggleButton.textContent = "✖️";
+                toggleButton.innerHTML = "<img src='assets/umschalten.png' alt='toggle'>";
             }
 
             function removeScrollListener() {
@@ -32,7 +32,7 @@
                     window.removeEventListener('scroll', scrollListener);
                 }
                 scrollEventActive = false;
-                toggleButton.textContent = "✔️";
+                toggleButton.innerHTML = "<img src='assets/toggle.png' alt='toggle2'>";
             }
 
             toggleButton.addEventListener('click', function () {

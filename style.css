@@ -170,6 +170,7 @@ ul {
 }
 .navbar {
   transition: all ease 0.3s;
+  z-index: 4;
   display: flex;
   flex-direction: column;
   position: fixed;
@@ -310,6 +311,7 @@ main {
   padding: 8px;
   border-radius: 10px;
   background-color: rgba(0, 0, 0, 0);
+  user-select: none;
   &:hover {
     cursor: pointer;
     padding: 30px;

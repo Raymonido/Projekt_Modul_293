@@ -15,4 +15,13 @@ Auf dem folgenden Bild sieht man eine geordnete Liste von den wichtigsten Dateif
 
 ## Kompetenz E3
 
-Mein Ziel am Anfang des Moduls 
+Mein Ziel am Anfang des Moduls war es, eine visuell ansprechende Seite zu erstellen, welche aus mehreren Seiten besteht. Dabei 
+
+
+## Kompetenz E4
+
+Ich habe in meiner Webseite ausserdem ein Formular eingebaut, um diese Kompetenzstufe zu erreichen. Dabei war es ausserdem mein Ziel, einen Service zu benutzen, mit welchem ich auch eine Mail bekomme, sobald jemand das Formular ausfüllt.
+
+## Selbsteinschätzung
+
+Ich möchte auch in diesem Kompetenzbereich die Kompetenzstufe E erreichen. Dies kann ich anhand meiner Webseite beweisen, da Sie aus mehreren Seiten besteht. Ausserdem habe ich verschiedenste Medien verwendet, 

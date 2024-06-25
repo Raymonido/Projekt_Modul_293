@@ -7,7 +7,7 @@
 
 - Die grundlagen, wie eine Webseite aufgebaut ist und welche Tools es in der Webentwicklung gibt habe ich in der Aprentas gelernt.
 
-- gerade vor kurzem habe ich im Geschäft mit der Webentwicklung angefangen und arbeite dort mit dem Framework Angular.
+- Gerade vor kurzem habe ich im Geschäft mit der Webentwicklung angefangen und arbeite dort mit dem Framework Angular und bin auch aktiv an einem Projekt dran.
 
 # Kompetenzzuwachs
 

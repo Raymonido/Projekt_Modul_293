@@ -276,7 +276,7 @@ header.small {
 
   &:hover {
     background-color: var(--primarycolor);
-    transform: rotate(1turn);
+    transform: rotate(0.5turn);
   }
 }
 
@@ -305,7 +305,7 @@ main {
 
 .menubutton {
   transition: all ease-in-out;
-  transition-duration: 0.6s, 0.7s;
+  transition-duration: 0.3s, 0.4s;
   position: absolute;
   left: 10px;
   padding: 8px;
@@ -314,14 +314,14 @@ main {
   user-select: none;
   &:hover {
     cursor: pointer;
-    padding: 30px;
+    left: 20px;
   }
 }
 
 .menubutton-anim {
-  transform: rotate(1turn);
+  transform: rotate(0.5turn);
   background-color: rgba(0, 0, 0, 0.2);
-  padding: 8px;
+  padding: 4px;
   border-radius: 20%;
 }
 

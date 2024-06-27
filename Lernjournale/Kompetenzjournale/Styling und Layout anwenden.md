@@ -56,3 +56,7 @@ Bei den einzelnen Komponenten verwende ich meine Variablen so:
 ```
 
 ```
+
+## Feedback
+
+Hier fehlt noch die Kompetenz E7

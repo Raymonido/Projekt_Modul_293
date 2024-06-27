@@ -95,9 +95,12 @@ In meiner Webseite gibt es ein Formular, welches so aussieht:
             </form>
           </div>
 ```
+In der Webseite sieht dann dieses Formular so aus: 
 
 ![Mein Formular](formular.png)
 
+
+Man muss natürlich dazu sagen, dass CSS das Design des Formulars bestimmt, hier geht es mir einfach darum, zu zeigen wie mein Formular von der Struktur aussieht. 
 ## Was habe ich in diesem Kompetenzbereich gelernt?
 
 Ich habe in diesem Kompetenzbereich vor allem gelernt, wie ich ein Formular mache, welches mir wirklich eine E-Mail sendet. Der Service von Formspree ist wirklich sehr einfach und sehr hilfreich, daher kann ich ihn sicher auch in zukünftigen Projekten verwenden. Ausserdem habe ich gelernt, welche Dateiformate es alles gibt und wie man sie richtig in einer Webseite einbindet. Ich habe mir dazu noch gedanken gemacht, wie man überhaupt die Medien ansprechend auf der Webseite gestalten kann. Diese überlegungen habe ich auch an meiner eigenen Webseite so gut wie nur möglich umgesetzt. Ich habe nämlich probiert, die Medien so flüssig wie möglich einzubinden.

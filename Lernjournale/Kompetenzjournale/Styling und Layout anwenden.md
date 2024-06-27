@@ -54,5 +54,17 @@ Ausserdem habe ich für die Farben CSS variablen verwendet, welche mir erlauben,
 Bei den einzelnen Komponenten verwende ich meine Variablen so:
 
 ```
-
+background: var(--primarycolor);    
 ```
+
+## Kompetenz E7
+
+Diesen Kompetenzbereich kann ich damit erklären, dass meine Webseite auch auf dem Handy einheitlich zu sehen ist. Das Design ist ausserdem einheitlich gestaltet, indem ich einen roten header und einen roten Footer verwende. Dieses einheitliche Design fällt mir sehr einfach, da ich CSS-Variablen verwendet habe.
+
+## Was habe ich in diesem Kompetenzbereich gelernt?
+
+In diesem Kompetenzbereich habe ich vor allem gelernt, wie man CSS-Variablen verwendet. Ausserdem habe ich herausgefunden, dass man nun normales CSS auch verschachteln kann, was mir sehr entgegenkommt
+
+## Selbsteinschätzung
+
+Ich finde, ich habe in diesem Kompetenzbereich alle Themen abgedeckt. Da ich meine Webseite ausserdem mit CSS-Variablen gestaltet habe, sieht meine Webseite sehr einheitlich aus. Ich finde jedoch, dass ich mich fast zu sehr auf das aussehen der Webseite konzentriert habe, besonders bei kleinen Details. Ich weiss natürlich, dass diese auch sehr wichtig sind, jedoch habe ich das Gefühl, dass ich mehr in meiner Webseite hätte erreichen können. Z.B hätte ich ein bisschen mehr Javascript verwenden können, da ich generell sehr viel Javascript (Typescript) verwende. Da wäre es passend gewesen, meine Kompetenzen etwas mehr zu erweitern, trotzdem bin ich sehr zufrieden mit dem aussehen meiner Webseite und bin mir sicher, dass ich die E-Kompetenzen erreichen werde. 

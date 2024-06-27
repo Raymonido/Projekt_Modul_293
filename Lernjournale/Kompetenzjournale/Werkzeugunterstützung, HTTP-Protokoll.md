@@ -40,7 +40,7 @@ Diese Dateien kann man unter dem "Network" Tab der Entwicklertools in Chrome ein
 
 ## GET und POST
 
-<br>
+<br> 
 GET und POST sind zwei häufig verwendete Methoden für HTTP-Anfragen, die im Rahmen der Kommunikation zwischen Webclients (wie Browsern) und Servern verwendet werden.
 
 

@@ -8,6 +8,11 @@
 
 - Im Geschäft habe ich auch schon ein kleines Projekt in der Webentwicklung gemacht, daher bin ich schon sehr Vertraut mit CSS, ich würde sogar behaupten, dass ich vor diesem Modul CSS am besten kann.
 
+
+## Was ist Responsive Websdesign?
+
+Responsive Webdesign ist ein Ansatz in der Web-entwicklung, indem man probiert, eine Webseite auf allen Geräten verfügbar und verwendbar zu machen. Dies bedeutet, dass Inhalte nicht zu klein oder zu gross auf dem Smartphone sind oder z.B. gewisse Elemente übereinander liegen. Um ein Responsives Design zu gewährleisten, gibt es zwei Ansätze. Der **Desktop-First** Ansatz geht dem Prinzip nach, die Webseite zuerst für den Desktop gebrauch zu designen. Dieser Ansatz ist heute eher veraltet, da heutige Webstandards erwarten, dass jede Webseite im Internet Responsive sein muss. Für Interne Webseiten in einer Firma kann dieser Ansatz jedoch von Vorteil sein, da die Firmenmitarbeiter ausschliesslich auf Desktops arbeiten. Der **Mobile-First** Ansatz ist aber für alle anderen Fälle meistens der bessere und modernere Ansatz, da die meisten Benutzer eine Webseite auf Mobilen Geräten aufrufen. 
+
 ## Kompetenz E6
 
 Ich kann diese Kompetenz beweisen, da ich eine eher neuere Technik im schreiben meines CSS-Codes verwendet habe. Ich habe nämlich eine neue Funktion der Browser ausgenutzt, welche es einem nun ermöglicht, CSS-Code zu verschachteln wie in einem Framework oder SASS. Da ich im Geschäft eigentlich nur mit SASS arbeite, kam mir das sehr entgegen. 
@@ -67,4 +72,4 @@ In diesem Kompetenzbereich habe ich vor allem gelernt, wie man CSS-Variablen ver
 
 ## Selbsteinschätzung
 
-Ich finde, ich habe in diesem Kompetenzbereich alle Themen abgedeckt. Da ich meine Webseite ausserdem mit CSS-Variablen gestaltet habe, sieht meine Webseite sehr einheitlich aus. Ich finde jedoch, dass ich mich fast zu sehr auf das aussehen der Webseite konzentriert habe, besonders bei kleinen Details. Ich weiss natürlich, dass diese auch sehr wichtig sind, jedoch habe ich das Gefühl, dass ich mehr in meiner Webseite hätte erreichen können. Z.B hätte ich ein bisschen mehr Javascript verwenden können, da ich generell sehr viel Javascript (Typescript) verwende. Da wäre es passend gewesen, meine Kompetenzen etwas mehr zu erweitern, trotzdem bin ich sehr zufrieden mit dem aussehen meiner Webseite und bin mir sicher, dass ich die E-Kompetenzen erreichen werde. 
+Ich finde, ich habe in diesem Kompetenzbereich alle Themen abgedeckt. Da ich meine Webseite ausserdem mit CSS-Variablen gestaltet habe, sieht meine Webseite sehr einheitlich aus. Ich finde jedoch, dass ich mich fast zu sehr auf das aussehen der Webseite konzentriert habe, besonders bei kleinen Details. Ich weiss natürlich, dass dies auch sehr wichtig sind, jedoch habe ich das Gefühl, dass ich mehr mit meiner Webseite hätte erreichen können. Z.B hätte ich ein bisschen mehr Javascript verwenden können, da ich generell sehr viel Javascript (Typescript) verwende (Geschäftlich). Da wäre es passend gewesen, meine Kompetenzen etwas mehr zu erweitern, trotzdem bin ich sehr zufrieden mit dem aussehen meiner Webseite und bin mir sicher, dass ich die E-Kompetenzen erreichen werde. 

@@ -62,6 +62,10 @@ Bei den einzelnen Komponenten verwende ich meine Variablen so:
 background: var(--primarycolor);    
 ```
 
+## Wie gewährleiste ich ein Responsives Design?
+
+Ich persönlich habe in meiner Webseite sehr viel das Attribut ``` display: flex; ``` verwendet. Einen CSS Grid habe ich nicht verwendet, da ich mich mit flexboxen besser auskenne und mich persönlich etwas wohler fühle. Ausserdem habe ich nur wenig mit fixen höhen und breiten gearbeitet. Ich habe vor allem mit ``` % ``` und ``` vh ``` gearbeitet. So wird im Fall von % die Höhe immer dem darüberliegenden Element angepasst, bei vh wird der Sichtbare bereich genommen. 100vh wäre der ganze *Viewport*. Ich bin mir jedoch bewusst, dass man mit CSS-Grid auch sehr tolle und responsive Webseiten bauen kann, jedoch hat es mir einfach zeitlich nicht gereicht, mein Design auf einen Grid umzustellen.
+
 ## Kompetenz E7
 
 Diesen Kompetenzbereich kann ich damit erklären, dass meine Webseite auch auf dem Handy einheitlich zu sehen ist. Das Design ist ausserdem einheitlich gestaltet, indem ich einen roten header und einen roten Footer verwende. Dieses einheitliche Design fällt mir sehr einfach, da ich CSS-Variablen verwendet habe.

@@ -19,5 +19,11 @@ Nun kann man unter **Build and deployment** den Branch auswählen, welcher als S
 
 ## Selbsteinschätzung
 
-Ich finde, ich habe in diesem Kompetenzbereich auch die erweiterten Kompetenzen erreicht. Dies kann ich damit erklären, dass ich meine Webseite auf GitHub Pages veröffentlichen konnte.
+Ich finde, ich habe in diesem Kompetenzbereich auch die erweiterten Kompetenzen erreicht. Dies kann ich damit erklären, dass ich meine Webseite auf GitHub Pages veröffentlichen konnte. So ist die Webseite nun von allen Geräten aus zugreifbar.
+
+## Reflexion über das Modul
+
+Ich finde, ich habe dieses Modul gut überstanden. Ich habe jedoch das Gefühl, dass ich in einigen Bereichen etwas besser gewesen wäre, wenn ich ein bisschen mehr auf neue Dinge konzentriert habe. Ich habe in diesem Modul hauptsächlich schon bekanntes Wissen wieder eingestzt und einfach zu einem fertigen Produkt zusammengestellt. Ich hätte mich eher darauf konzentrieren sollen, neue Dinge zu probieren. Dabei hätte ich einen anderen Ansatz nehmen können, z.B. dass ich das Framework Angular hätte verwenden können.
+
+Insgesamt bin ich aber zufrieden mit meinem Produkt und bin mir sicher, dass ich eine gute Note in diesem Modul erreichen werde!
 

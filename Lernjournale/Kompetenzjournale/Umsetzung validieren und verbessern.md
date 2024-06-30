@@ -8,6 +8,8 @@
 
 - Syntax validierungsmethoden waren mir schon bekannt, da ich schon programme wie Prettier vor diesem Modul/Kompetenzbereich verwendet habe.
 
+- Ich bin also noch nicht sehr vertraut mit der Validierung von Webseiten. Ich frage mich noch, wie man konkret eine Webseite so anpasst, dass sie ein gutes SEO Rating bekommt. 
+
 ## Kompetenz E8
 
 Ich kann diese Kompetenz damit beweisen, dass ich meine Webseite durch verschiedenste Programme und Tools habe testen lassen. Bei Google Lighthouse hat meine Webseite folgenden Score:

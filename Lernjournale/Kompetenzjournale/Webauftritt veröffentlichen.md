@@ -3,8 +3,14 @@
 ## Ausgangslage
 
 - Vor diesem Modul habe ich schonmal eine Webseite mithilfe von GitHub Pages publiziert.
+
 - In der Aprentas haben wir ausserdem die Webseite mithilfe einer Domain des Lehrers veröffentlicht.
-- Selber habe ich noch nie eine Domain gekauft
+
+- Selber habe ich noch nie eine Domain gekauft.
+
+- Ich habe schon erfahrung mit diesem Kompetenzbereich.
+
+- Mir ist noch nicht bekannt, wie ich meine Webseite mit einer Domain veröffentliche.
 
 ## Kompetenz E9
 

@@ -10,6 +10,10 @@
 
 - Im Geschäft habe ich bereits das UI Design mithilfe des Programms "Moqups" geplant. Dies hat mir sehr geholfen und werde eine ähnliche Planung auch in diesem Projekt verwenden. ICh habe also schon etwas Erfahrung mit der Planung von einer Webseite.
 
+- Ich habe also schon relativ grosses Vorwissen zu diesem Kompetenzbereich
+
+- Ich frage mich jedoch noch, welche Eingabetypen es bei einem Formular gibt. Ich kenne schon einige, jedoch möchte ich alle kennenlernen.
+
 
 ## Dateiformate
 

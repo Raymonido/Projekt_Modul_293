@@ -9,6 +9,10 @@
 
 - Gerade vor kurzem habe ich im Geschäft mit der Webentwicklung angefangen und arbeite dort mit dem Framework Angular und bin auch aktiv an einem Projekt dran.
 
+- In diesem Kompetenzbereich möchte ich vor allem lernen, wie GET und POST Anfragen im Detail passieren.
+
+- Ich bin noch nicht so vertraut mit diesem Kompetenzbereich.
+
 # Kompetenzzuwachs
 
 ## Kompetenz E1

@@ -8,7 +8,9 @@
 
 - Syntax validierungsmethoden waren mir schon bekannt, da ich schon programme wie Prettier vor diesem Modul/Kompetenzbereich verwendet habe.
 
-- Ich bin also noch nicht sehr vertraut mit der Validierung von Webseiten. Ich frage mich noch, wie man konkret eine Webseite so anpasst, dass sie ein gutes SEO Rating bekommt. 
+- Ich bin also noch nicht sehr vertraut mit der Validierung von Webseiten. Ich frage mich noch, wie man konkret eine Webseite so anpasst, dass sie ein gutes SEO Rating bekommt.
+
+- Wie kann ich meine Webseite auf Perforance prüfen?
 
 ## Kompetenz E8
 

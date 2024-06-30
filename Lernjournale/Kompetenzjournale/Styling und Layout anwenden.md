@@ -8,6 +8,8 @@
 
 - Im Geschäft habe ich auch schon ein kleines Projekt in der Webentwicklung gemacht, daher bin ich schon sehr Vertraut mit CSS, ich würde sogar behaupten, dass ich vor diesem Modul CSS am besten kann.
 
+- Ich bin schon sehr vertraut mit diesem kompetenzbereich und habe auch schon relativ viel Erfahrung. Offene Fragen habe ich keine.
+
 
 ## Was ist Responsive Websdesign?
 

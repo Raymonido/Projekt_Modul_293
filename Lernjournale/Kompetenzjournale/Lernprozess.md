@@ -24,3 +24,7 @@ Im Geschäft arbeite ich vor allem in der Webentwicklung, daher war dieses Modul
 ## Wie würde ich meine Leistung einschätzen?
 
 Im Grossen und Ganzen würde ich meine Leistung als sehr positiv einstufen. Ich finde, dass ich sehr gut gearbeitet habe und mich gut auf das Modul konzentriert habe. Zurückblickend hätte ich gerne noch eine zusätzliche Seite in meiner Webseite gemacht, wo ich meine Lernjournale verlinke und auch darstelle. Ich hätte es ausserdem toll gefunden, wenn ich mich am Anfang des Moduls etwas mehr getraut und versucht hätte, meine Webseite mit Angular zu machen. Ansonsten bin ich sehr zufrieden mit dem Produkt, welches über die letzten 9 Wochen entstanden sind.  
+Im Grossen und Ganzen würde ich meine Leistung als sehr positiv einstufen. Ich finde, dass ich sehr gut gearbeitet habe und mich gut auf das Modul konzentriert habe. Zurückblickend hätte ich gerne moch eine zudätzliche Seite in meiner Webseite gemacht, wo ich meine Lernjournale verlinke und acuh darstelle. Ich hätte es ausserdem toll gefunden, wenn ich mich am Anfang des Moduls etwas mehr getraut und versucht hätte, meine Webseite mit Angular zu machen. Ansonsten bin ich sehr zufrieden.  
+
+## Feedback
+Sie haben in diesem Modul einen sehr gute Leistung gezeigt. Sie haben die Zeit im Unterricht gut genutzt und haben motiviert an den Kompetenzen gearbeitet - machen Sie weiter so!
